@@ -24,6 +24,17 @@
         "action",
         "kazane"
       ]
+    },
+    {
+      "id": "eazyFPS_release",
+      "name": "EasyFPS",
+      "repo": "https://github.com/kazanefu/eazyFPS_release",
+      "description": "Online FPS",
+      "tags": [
+        "fps",
+        "shooting",
+        "kazane"
+      ]
     }
   ]
 }
