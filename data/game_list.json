@@ -24,6 +24,15 @@
         "action",
         "kazane"
       ]
+    },
+    {
+      "id": "zip-sample(Dummy)",
+      "name": "Zip Sample Game(Dummy)",
+      "repo": "https://github.com/kazanefu/zip_sample_game",
+      "description": "zip distribution for tests",
+      "tags": [
+        "sample-tag"
+      ]
     }
   ]
 }
