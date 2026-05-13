@@ -35,6 +35,17 @@
         "shooting",
         "kazane"
       ]
+    },
+    {
+      "id": "inertia_invader",
+      "name": "慣性インベーダー",
+      "repo": "https://github.com/kazanefu/inertia_invader",
+      "description": "操作に慣性がはたらくインベーダー風ゲーム",
+      "tags": [
+        "invader",
+        "shooting",
+        "kazane"
+      ]
     }
   ]
 }
