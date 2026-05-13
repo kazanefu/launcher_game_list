@@ -33,7 +33,8 @@
       "tags": [
         "fps",
         "shooting",
-        "kazane"
+        "kazane",
+        "online"
       ]
     },
     {
@@ -45,6 +46,18 @@
         "invader",
         "shooting",
         "kazane"
+      ]
+    },
+    {
+      "id": "TankOnline_release",
+      "name": "Tank Online",
+      "repo": "https://github.com/kazanefu/TankOnline_release",
+      "description": "オンライン対戦のタンクゲーム",
+      "tags": [
+        "invader",
+        "shooting",
+        "kazane",
+        "online"
       ]
     }
   ]
