@@ -59,6 +59,17 @@
         "kazane",
         "online"
       ]
+    },
+    {
+      "id": "Nobunaga",
+      "name": "Nobunaga",
+      "repo": "https://github.com/kazanefu/Nobunaga",
+      "description": "消火弾幕ゲーム",
+      "tags": [
+        "弾幕",
+        "bullet hell",
+        "kazane"
+      ]
     }
   ]
 }
